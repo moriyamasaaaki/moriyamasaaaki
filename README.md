@@ -1,4 +1,9 @@
-### Hi there 👋
+## Thank you for visiting👋
+
+### About me
+- 💬About:　Hi everyone, I am a college student.
+- 👨‍💻Portfolio:　https://masa-portfolio.netlify.app/
+- 🖥Techs:　JavaScript　/　TypeScript(Angular,React,Vue)　/　Node.js(express)　/　PHP　/　Firebase　/　ionic　etc...
 
 <!--
 **moriyamasaaaki/moriyamasaaaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
