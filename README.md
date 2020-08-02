@@ -5,7 +5,7 @@
 
 - 👨‍💻Portfolio:　https://masa-portfolio.netlify.app/
 
-- 🖥Techs:　JavaScript/TypeScript(Angular,React,Vue)　/　Node.js(express)　/　PHP　/　Firebase　/　ionic　/　MySQL　etc...
+- 🖥Techs:　JavaScript/TypeScript(Angular,React,Vue)　/　Node.js(express)　/　PHP　/　Firebase　/　ionic　/　MySQL / Algolia / Stripe / SendGrid　etc...
 
 <!--
 **moriyamasaaaki/moriyamasaaaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
