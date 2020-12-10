@@ -5,8 +5,6 @@
 
 - 👨‍💻Portfolio:　https://masaaki-site.netlify.app/
 
-- Engineering Team: https://twitter.com/Cuovision
-
 - 🖥Techs:　JavaScript/TypeScript(Angular,Vue)　/　Node.js(express)　/　PHP(Laravel)　/　Firebase　/　ionic　/　MySQL / Algolia / Stripe / SendGrid　etc...
 
 <!--
