@@ -3,7 +3,6 @@
 ### About me
 - 💬About:　Hi everyone, I am a college student.
 
-- 👨‍💻Portfolio:　https://masaaki-site.netlify.app/
 
 - 🖥Techs:　JavaScript/TypeScript(Angular,Vue)　/　Node.js(express)　/　PHP(Laravel)　/　Firebase　/　ionic　/　MySQL / Algolia / Stripe / SendGrid　etc...
 
